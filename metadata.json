@@ -1,0 +1,9 @@
+{
+  "name": "AgriConnect",
+  "description": "Smart Farmer Marketplace — mandi prices, farmer crop listings, and buyer requirements across India.",
+  "prompt": "AgriConnect — Smart Farmer Marketplace",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
